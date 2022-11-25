@@ -1,0 +1,2 @@
+fa2646280cf38180689c29c393cddd05  qt-everywhere-src-5.12.9.tar.xz
+872ca27e9038d8fdbefff51a9db3503b  qt-everywhere-src-5.12.9.zip
